@@ -1,5 +1,5 @@
 C_VV,C Vagt-Vault,| FV-PRISON | VAGT-ALARM:,har haft fingrene i Vagt-Vaulten i C!,,,Røveri: Du kan først røve her igen om,900,300,5,7200,C;B;A
-B_VV,B Vagt-Vault,VAGT-ALARM:,har stjålet inventar fra Vagt-Huset B!,,,Røveri: Du kan først røve huset igen om,1800,300,5,1800,C;B
+B_VV,B Vagt-Vault,VAGT-ALARM:,har stjålet inventar fra Vagt-Huset B!,,,Røveri: Du kan først røve huset igen om,1800,300,5,1800,C;B;A
 BPLUS_VV,B+ Banken,VAGT-ALARM:,prøver at bryde pengeskabet op i banken i B+ Området!,VAGT-ALARM: Det lykkedes,at bryde bankens pengeskab op i B+ Området!,Du kan først åbne pengeskabet igen om,4200,600,13,43200,B
 A_VV,A Vagt-Vault,VAGT-ALARM:,forsøger at røve vagternes værdi-boks i A!,VAGT-ALARM:,gennemførte et røveri i vagternes værdi-boks i A!,Røveri: Du kan først røve vagten igen om,1800,300,8,43200,A
 APLUS_VV,A+ Banken,VAGT-ALARM:,prøver at bryde pengeskabet op i banken i A+ Området!,VAGT-ALARM: Det lykkedes,at bryde bankens pengeskab op i A+ Området!,Du kan først åbne pengeskabet igen om,3600,600,10,43200,A
