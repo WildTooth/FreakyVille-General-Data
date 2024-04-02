@@ -1,20 +1,20 @@
-a,1,144,Grisene,0,0,0
-a,200,343,Koalaerne,0,0,0
-a,400,543,Pelikanerne,0,0,0
-a,600,671,Bacon,0,0,0
-a,800,935,Bamserne,0,0,0
-a,1000,1167,Flodhestene,0,0,0
-a,1200,1347,Skildpadderne,0,0,0
-a,1400,1567,Tigerne,0,0,0
-a ,1600,1743,Slangerne,0,0,0
-a,1744,1751,Cellerne i midten,0,0,0
-apre,1,36,Gul stue,0,0,0
-apre,37,74,Hønsene,0,0,0
-apre,75,110,Kakerlakkerne,0,0,0
-apre,111,150,Kyllingerne,0,0,0
-apre,151,230,Aberne,0,0,0
-apre,231,260,Æslerne,0,0,0
-apre,261,310,Ænderne,0,0,0
+a,1,144,Grisene,724,66,200
+a,200,343,Koalaerne,741,67,201
+a,400,543,Pelikanerne,763,66,206
+a,600,671,Bacon,763,66,214
+a,800,935,Bamserne,763,66,228
+a,1000,1167,Flodhestene,763,66,233
+a,1200,1347,Skildpadderne,738,67,230
+a,1400,1567,Tigerne,742,67,240
+a ,1600,1743,Slangerne,722,66,240
+a,1744,1751,Cellerne i midten,771,67,220
+apre,1,36,Gul stue,738,67,200
+apre,37,74,Hønsene,742,67,210
+apre,75,110,Kakerlakkerne,748,66,200
+apre,111,150,Kyllingerne,739,67,210
+apre,151,230,Aberne,763,66,211
+apre,231,260,Æslerne,741,67,230
+apre,261,310,Ænderne,749,66,240
 apre,347,382,Rød stue,0,0,0
 apre,311,346,Ulvene,0,0,0
 apre,383,392,Casinogang #1 (BJØRNENE),0,0,0
