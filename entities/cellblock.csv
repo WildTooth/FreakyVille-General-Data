@@ -15,74 +15,73 @@ apre,111,150,Kyllingerne,739,67,210
 apre,151,230,Aberne,763,66,211
 apre,231,260,Æslerne,741,67,230
 apre,261,310,Ænderne,749,66,240
-apre,347,382,Rød stue,0,0,0
-apre,311,346,Ulvene,0,0,0
-apre,383,392,Casinogang #1 (BJØRNENE),0,0,0
-apre,393,402,Casinogang #2 (Pandaerne),0,0,0
-apre,403,412,Casinogang #3 (Koalaerne),0,0,0
-apre,413,422,VVgang #1 (Isbjørnene),0,0,0
-apre,423,432,VVgang #2 (Bubbibjørnene),0,0,0
-apre,433,442,VVgang #3 (Hulebjørnene),0,0,0
-apre,443,454,Security cellerne,0,0,0
-apre,25086,25086,Bande-Område Celle #1,0,0,0
-apre,25333,25333,Bande-Område Celle #2,0,0,0
-tpre,1,19,Gammel Titangang,0,0,0
-tpre,20,24,Titan celler v. VV,0,0,0
-tpre,25,31,Titan celler v. Casino,0,0,0
-fc,1,50,Gederne (F-Coin),0,0,0
-fc,66,105,Gederne (F-Coin),0,0,0
-ayt,10,10,YT-Celle Vaskeriet,0,0,0
-ayt,1,6,Mini-YT celler i Hønsene,0,0,0
-ayt,12,12,YT-Celle Casino,0,0,0
-fc,51,53,Røde A+ Lejligheder,0,0,0
-fc,305,307,Grønne A+ Lejligheder,0,0,0
-fc,308,310,Gule A+ Lejligheder,0,0,0
-fc,326,326,Tankstations Cellen (Slyqnn's),0,0,0
-fc,320,325,Lejlighederne v. Tankstationen,0,0,0
-fc,312,313,Huse v. politistationen,0,0,0
-fc,302,304,Huse v. politistationen,0,0,0
-fc,314,319,Huse v. togstationen,0,0,0
-fc,311,311,Hus v. Bande-Område,0,0,0
-fc,300,301,Hus v. Bande-Område,0,0,0
-b,1,285,Sort Portal,0,0,0
-b,286,494,Hvid cellegang,0,0,0
-b,495,718,Portal #1,0,0,0
-b,1055,1055,Portal #9,0,0,0
-b,1057,1111,Portal #9,0,0,0
-b,1113,1166,Portal #9,0,0,0
-b,1167,1437,Portal #2,0,0,0
-b,1438,1661,Portal #8,0,0,0
-b,1662,1670,Oven over Vagtstuen,0,0,0
-b,1671,1717,Bag Minerne,0,0,0
-b,1718,1740,Sort Portal (Bag væggen),0,0,0
-b,1741,1764,Bande-Området,0,0,0
-bk,1,30,Kloakken,0,0,0
-bpre,1,180,Under Sort Portal,0,0,0
-bpre,101,230,Under Sort Portal,0,0,0
-bpre,231,338,Portal #1,0,0,0
-bpre,533,637,Portal #3,0,0,0
-bpre,638,734,Portal #4,0,0,0
-bpre,735,831,Portal #5,0,0,0
-bpre,832,928,Portal #6,0,0,0
-bpre,929,1025,Portal #7,0,0,0
-fcb,1,96,F-Coin Portalen,0,0,0
-fcb,97,103,Huse v. Banken,0,0,0
-fcb,104,106,Huse v. Banken,0,0,0
-fcb,107,107,Huse bagved Banken,0,0,0
-fcb,108,115,B+ Lejligheder,0,0,0
-byt,1,2,YT-Celler Fitness,0,0,0
-tbpre,1,9,Titancellerne,0,0,0
-c,1,96,Cellegang #1,0,0,0
-c,97,192,Cellegang #2,0,0,0
-c,193,288,Cellegang #3,0,0,0
-c,289,384,Cellegang #4,0,0,0
-c,385,480,Cellegang #5,0,0,0
-c,481,576,Cellegang #6,0,0,0
-c,578,673,Cellegangen under casino,0,0,0
-c,1250,1537,Midteportalen til venstre,0,0,0
-c,1826,2114,Portalen ved Mogens-Vagt,0,0,0
-c,2115,2132,Kloaken ved Mogens-Vagt,0,0,0
-c,2133,2156,Kloaken ved casino,0,0,0
-cpre,1,384,(Donator)Midteportalen til højre,0,0,0
-cyt,1,3,Youtubecellerne t.V. fra spawn,0,0,0
-cyt,4,6,Youtubecellerne t.H. fra spawn,0,0,0
+apre,347,382,Rød stue,725,64,240
+apre,311,346,Ulvene,736,64,258
+apre,383,392,Casinogang #1 (BJØRNENE),757,64,168
+apre,393,402,Casinogang #2 (Pandaerne),779,64,167
+apre,403,412,Casinogang #3 (Koalaerne),801,64,168
+apre,413,422,VVgang #1 (Isbjørnene),801,64,272
+apre,423,432,VVgang #2 (Bubbibjørnene),779,64,273
+apre,433,442,VVgang #3 (Hulebjørnene),757,64,273
+apre,443,454,Security cellerne,849,64,212
+apre,25086,25086,Bande-Område Celle #1,827,64,282
+apre,25333,25333,Bande-Område Celle #2,823,64,283
+tpre,1,19,Gammel Titangang,715,59,198
+tpre,20,24,Titan celler v. VV,798,64,264
+tpre,25,31,Titan celler v. Casino,788,64,177
+fc,1,50,Gederne (F-Coin),739,65,240
+fc,66,105,Gederne (F-Coin),739,65,240
+ayt,10,10,YT-Celle Vaskeriet,838,64,262
+ayt,1,6,Mini-YT celler i Hønsene,742,67,210
+ayt,12,12,YT-Celle Casino,714,64,189
+fc,51,53,Røde A+ Lejligheder,609,66,188
+fc,305,307,Grønne A+ Lejligheder,629,66,188
+fc,308,310,Gule A+ Lejligheder,639,65,188
+fc,326,326,Tankstations Cellen (Slyqnn's),672,63,217
+fc,320,325,Lejlighederne v. Tankstationen,669,64,204
+fc,312,313,Huse v. politistationen,605,63,253
+fc,302,304,Huse v. politistationen,637,63,230
+fc,314,319,Huse v. togstationen,578,63,285
+fc,311,311,Hus v. Bande-Område,675,64,255
+fc,300,301,Hus v. Bande-Område,651,64,288
+b,1,285,Sort Portal,-77,63,684
+b,286,494,Hvid cellegang,-71,64,-721
+b,495,718,Portal #1,-5,64,-718
+b,1055,1055,Portal #9,-12,63,-653
+b,1057,1111,Portal #9,-12,63,-653
+b,1113,1166,Portal #9,-12,63,-653
+b,1167,1437,Portal #2,0,64,-718
+b,1438,1661,Portal #8,-53,63,-653
+b,1662,1670,Oven over Vagtstuen,-50,74,-721
+b,1671,1717,Bag Minerne,5,74,-697
+b,1718,1740,Sort Portal (Bag væggen),-77,63,684
+b,1741,1764,Bande-Området,-70,64,-832
+bk,1,30,Kloakken,-101,63,-586
+bpre,1,180,Under Sort Portal,-77,63,684
+bpre,101,230,Under Sort Portal,-77,63,684
+bpre,231,338,Portal #1,-5,64,-718
+bpre,533,637,Portal #3,3,64,-716
+bpre,638,734,Portal #4,-6,63,-670
+bpre,735,831,Portal #5,-22,63,-653
+bpre,832,928,Portal #6,-48,63,-653
+bpre,929,1025,Portal #7,-58,63,-653
+fcb,1,96,F-Coin Portalen,-75,63,-698
+fcb,97,103,Huse v. Banken,48,63,-422
+fcb,104,106,Huse v. Banken,-3,63,-429
+fcb,107,107,Huse bagved Banken,29,63,-447
+fcb,108,115,B+ Lejligheder,-32,64,-506
+byt,1,2,YT-Celler Fitness,17,64,-641
+tbpre,1,9,Titancellerne,-42,60,-690
+c,1,96,Cellegang #1,98,64,-39
+c,97,192,Cellegang #2,42,64,-5
+c,193,288,Cellegang #3,16,64,-39
+c,289,384,Cellegang #4,16,64,-105
+c,385,480,Cellegang #5,42,64,-139
+c,481,576,Cellegang #6,98,64,-105
+c,578,673,Cellegangen under casino,53,64,-144
+c,1250,1537,Midteportalen til venstre,42,64,-68
+c,1826,2114,Portalen ved Mogens-Vagt,54,64,-34
+c,2115,2132,Kloaken ved Mogens-Vagt,75,60,-12
+c,2133,2156,Kloaken ved casino,19,63,-131
+cpre,1,384,(Donator)Midteportalen til højre,42,64,-76
+cyt,1,3,Youtubecellerne t.V. fra spawn,62,64,-143
