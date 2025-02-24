@@ -73,7 +73,6 @@ fcb,108,115,B+ Lejligheder,-32,67,-506
 byt,1,2,YT-Celler Fitness,17,67,-641
 tbpre,1,9,Titancellerne,-42,63,-690
 c,1,96,Cellegang #1,98,68,-39
-c,97,192,Cellegang #2,42,68,-5
 c,193,288,Cellegang #3,16,68,-39
 c,289,384,Cellegang #4,16,68,-105
 c,385,480,Cellegang #5,42,68,-139
@@ -84,5 +83,6 @@ c,1826,2114,Portalen ved Mogens-Vagt,54,67,-34
 c,2115,2132,Kloaken ved Mogens-Vagt,75,62,-12
 c,2133,2156,Kloaken ved casino,19,65,-131
 cpre,1,384,(Donator)Midteportalen til højre,42,67,-76
+cpre,385,488,Maximum-Security Afdelingen,0,0,0
 cyt,1,3,Youtubecellerne t.H. fra spawn,62,67,-143
 cyt,4,6,Youtubecellerne t.V. fra spawn,62,67,-1
